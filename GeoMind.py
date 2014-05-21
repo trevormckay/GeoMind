@@ -168,13 +168,13 @@ while True:
 		raw_input()
 
 	# Given radius and volume
-	given rvolcyl1 = function == "r vol cyl"
-	given rvolcyl2 = function == "vol r cyl"
+	givenrvolcyl1 = function == "rad vol cyl"
+	givenrvolcyl2 = function == "vol rad cyl"
 	if givenrvolcyl1 is True or givenrvolcyl2 is True:
 		rad = raw_input("What is the radius? > ")
 		vol = raw_input("What is the volume? > ")
-		h = vol / pi * pow(int(rad), 2)
-		la = 2 * vol / rad
+		h = int(vol) / pi * pow(int(rad), 2)
+		la = 2 * int(vol) / int(rad)
 		ba = pi * pow(int(rad), 2)
 		ta = int(la) + int(ba)
 		print "The height is " + str(h) + " units."
