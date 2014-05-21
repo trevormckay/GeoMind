@@ -1,4 +1,4 @@
-Trevor McKay's GeoMind
+Trevor McKay's GeoMind | Download Python at wwww.python.org
 -------------------------------------------------------------------------------
 
 Currently in Alpha 1.2.0
