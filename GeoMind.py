@@ -55,7 +55,6 @@ while True:
 		la = lateral area
 		ta = total area
 		"""
-		
 		raw_input()
 		
 	# changelog
@@ -84,7 +83,6 @@ while True:
 		- Calculator now asks for given instead of what is to be found
 		- Minor formatting changes
 		"""
-		
 		raw_input()
 		
 #VALUES REGARDING SPHERES
@@ -153,6 +151,7 @@ while True:
 		
 # VALUES OF CYLINDERS
 	
+	# Given radius and height
 	givenrhcyl1 = function == "r h cyl"
 	givenrhcyl2 = function == "h r cyl"
 	if givenrhcyl1 is True or givenrhcyl2 is True:
@@ -166,3 +165,11 @@ while True:
 		print "The lateral area is " + str(la) + " square units."
 		print "The area of a base is " + str(b) + " square units."
 		print "The total surface area is " + str(ta) + " square units."
+		raw_input()
+
+	# Given radius and volume
+	given rvolcyl1 = function == "r vol cyl"
+	given rvolcyl2 = function == "vol r cyl"
+	if givenrvolcyl1 is True or givenrvolcyl2 is True:
+		rad = raw_input("What is the radius? > ")
+		vol = raw_input("What is the volume? > ")
