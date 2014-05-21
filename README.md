@@ -23,7 +23,7 @@ HELP
 
 CHANGELOG
 
-  Version Alpha 1.0.0 
+        Version Alpha 1.0.0 
         - Added values of spheres 
           
         Version Alpha 1.1.0 
