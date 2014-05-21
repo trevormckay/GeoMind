@@ -7,8 +7,7 @@ Currently in Alpha 1.2.0
 HELP
 
  SYNTAX 
-        To find an equation: eq find figure 
-        To find a value: given given2(OPT) figure
+        To find an equation: eq find figure | To find a value: given given2(OPT) figure
       
         SUPPORTED FIGURES 
         Spheres 
