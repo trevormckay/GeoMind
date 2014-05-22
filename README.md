@@ -16,19 +16,19 @@ Currently in Alpha 1.2.0
 
 -HELP-
         SYNTAX
-         To find an equation: eq find figure | To find a value: given given2(OPT) figure
+        To find an equation: eq find figure ; To find a value: given given2(OPT) figure
        
         SUPPORTED FIGURES
-         Spheres 
-         Cylinders (Partially) 
+        Spheres 
+        Cylinders (Partially) 
        
         ABBREVIATIONS
-         vol = volume 
-         sa = surface area 
-         rad = radius 
-         b = area of a base 
-         la = lateral area 
-         ta = total area 
+        vol = volume 
+        sa = surface area 
+        rad = radius 
+        b = area of a base 
+        la = lateral area 
+        ta = total area 
 
 -CHANGELOG-
         
