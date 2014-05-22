@@ -15,14 +15,14 @@ Currently in Alpha 1.2.0
        3) To edit GeoMind, open GeoMind.py with your favorite text editor.
 
 -HELP-
-        SYNTAX
+      SYNTAX
         To find an equation: eq find figure ; To find a value: given given2(OPT) figure
        
-        SUPPORTED FIGURES
+      SUPPORTED FIGURES
         Spheres 
         Cylinders (Partially) 
        
-        ABBREVIATIONS
+      ABBREVIATIONS
         vol = volume 
         sa = surface area 
         rad = radius 
