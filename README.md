@@ -5,6 +5,7 @@
 -------------------------------------------------------------------------------
 
 **Development will be slow as I am a novice developer trying to balance this project with other, more important work.**
+**Email me at trevormckayhb@gmail.com**
 
 ##How to run GeoMind
        
