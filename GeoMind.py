@@ -48,6 +48,7 @@ while True:
 		Cylinders (Partially)
 	
 		ABBREVIATIONS
+		h = height
 		vol = volume
 		sa = surface area
 		rad = radius
@@ -152,9 +153,9 @@ while True:
 # VALUES OF CYLINDERS
 	
 	# Given radius and height
-	givenrhcyl1 = function == "r h cyl"
-	givenrhcyl2 = function == "h r cyl"
-	if givenrhcyl1 is True or givenrhcyl2 is True:
+	givenradhcyl1 = function == "rad h cyl"
+	givenradhcyl2 = function == "h rad cyl"
+	if givenradhcyl1 is True or givenradhcyl2 is True:
 		rad = raw_input("What is the radius? > ")
 		h = raw_input("What is the height? > ")
 		vol = pi * pow(int(rad), 2) * int(h)
@@ -168,9 +169,9 @@ while True:
 		raw_input()
 
 	# Given radius and volume
-	givenrvolcyl1 = function == "rad vol cyl"
-	givenrvolcyl2 = function == "vol rad cyl"
-	if givenrvolcyl1 is True or givenrvolcyl2 is True:
+	givenradvolcyl1 = function == "rad vol cyl"
+	givenradvolcyl2 = function == "vol rad cyl"
+	if givenradvolcyl1 is True or givenradvolcyl2 is True:
 		rad = raw_input("What is the radius? > ")
 		vol = raw_input("What is the volume? > ")
 		h = int(vol) / pi * pow(int(rad), 2)
@@ -183,3 +184,13 @@ while True:
 		print "The total area is " + str(ta) + " square units."
 		raw_input()
 		
+	# Given radius and lateral area
+	givenradlacyl1 = function == "rad la cyl"
+	givenradlacyl2 = function == "la rad cyl"
+	if givenradlacyl1 is True or givenradlacyl2 is True:
+		rad = raw_input("
+		la = raw_input("
+		h =
+		ba =
+		ta =
+		vol =
