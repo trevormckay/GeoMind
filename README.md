@@ -6,13 +6,13 @@
 
 Development will be slow as I am a novice developer trying to balance this project with other, more important work.
 
-###HOW TO RUN GEOMIND
+###How to run GeoMind
        
         1) Download and install Python at wwww.python.org
         2) Run GeoMind.py with Python to open
         3) To edit GeoMind, open GeoMind.py with your favorite text editor.
 
-###HELP
+###Help
 
         SYNTAX 
         To find an equation: eq find figure | To find a value: given given2(OPT) figure
@@ -29,7 +29,7 @@ Development will be slow as I am a novice developer trying to balance this proje
         la = lateral area 
         ta = total area 
 
-###CHANGELOG
+###Changelog
 
         Version Alpha 1.0.0 
         - Added values of spheres 
