@@ -160,7 +160,7 @@ while True:
 		h = raw_input("What is the height? > ")
 		isnumber1 = rad.isdigit()
 		isnumber2= h.isdigit()
-		if isnumber1 is True or isnumber2 is False:
+		if isnumber1 is False or isnumber2 is False:
 			print "Invalid number, the program will now close. "
 			raw_input()
 			sys.exit()
@@ -182,7 +182,7 @@ while True:
 		vol = raw_input("What is the volume? > ")
 		isnumber1 = rad.isdigit()
 		isnumber2= vol.isdigit()
-		if isnumber1 is True or isnumber2 is False:
+		if isnumber1 is False or isnumber2 is False:
 			print "Invalid number, the program will now close. "
 			raw_input()
 			sys.exit()
@@ -204,7 +204,7 @@ while True:
 		la = raw_input("What is the lateral area? > ")
 		isnumber1 = rad.isdigit()
 		isnumber2= la.isdigit()
-		if isnumber1 is True or isnumber2 is False:
+		if isnumber1 is False or isnumber2 is False:
 			print "Invalid number, the program will now close. "
 			raw_input()
 			sys.exit()
