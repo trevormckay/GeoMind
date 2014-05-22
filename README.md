@@ -28,10 +28,15 @@ Cylinders (Partially)
       
 ####ABBREVIATIONS 
 vol = volume 
+
 sa = surface area 
+
 rad = radius 
+
 b = area of a base 
+
 la = lateral area 
+
 ta = total area 
 
 ##Changelog
