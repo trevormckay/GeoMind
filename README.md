@@ -1,7 +1,7 @@
 #Trevor McKay's GeoMind
 -------------------------------------------------------------------------------
 
-##Currently in Alpha 1.2.1
+##Currently in Alpha 1.3.1
 -------------------------------------------------------------------------------
 
 **Development will be slow as I am a novice developer trying to balance this project with other, more important work.**
