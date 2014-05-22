@@ -200,8 +200,8 @@ while True:
 	givenradlacyl1 = function == "rad la cyl"
 	givenradlacyl2 = function == "la rad cyl"
 	if givenradlacyl1 is True or givenradlacyl2 is True:
-		rad = raw_input("What is the radius? > "
-		la = raw_input("What is the lateral area? > "
+		rad = raw_input("What is the radius? > ")
+		la = raw_input("What is the lateral area? > ")
 		isnumber1 = rad.isdigit()
 		isnumber2= la.isdigit()
 		if isnumber1 is True or isnumber2 is False:
