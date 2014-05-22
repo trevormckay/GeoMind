@@ -17,27 +17,27 @@
 ##Help
 
 ####SYNTAX 
-**To find an equation:** eq (to find) (figure)
+- **To find an equation:** eq (to find) (figure)
 
-**To find a value:** (given) (second given if applies) (figure)
+- **To find a value:** (given) (second given if applies) (figure)
       
 ####SUPPORTED FIGURES 
-**Spheres** 
+- **Spheres** 
 
-**Cylinders** (Partially) 
+- **Cylinders** (Partially) 
       
 ####ABBREVIATIONS 
-**vol** = volume 
+- **vol** = volume 
 
-**sa** = surface area 
+- **sa** = surface area 
 
-**rad** = radius 
+- **rad** = radius 
 
-**b** = area of a base 
+- **b** = area of a base 
 
-**la** = lateral area 
+- **la** = lateral area 
 
-**ta** = total area 
+- **ta** = total area 
 
 ##Changelog
 
