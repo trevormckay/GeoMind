@@ -17,9 +17,9 @@
 ##Help
 
 ####SYNTAX 
-To find an equation: eq (to find) (figure)
+**To find an equation:** eq (to find) (figure)
 
-To find a value: (given) (second given if applies) (figure)
+**To find a value:** (given) (second given if applies) (figure)
       
 ####SUPPORTED FIGURES 
 Spheres 
