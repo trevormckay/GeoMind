@@ -29,7 +29,7 @@ b = area of a base
 la = lateral area 
 ta = total area 
 
-###Changelog
+##Changelog
 
 ####Version Alpha 1.0.0 
 - Added values of spheres 
