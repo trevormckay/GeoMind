@@ -1,18 +1,18 @@
-Trevor McKay's GeoMind
+#Trevor McKay's GeoMind
 -------------------------------------------------------------------------------
 
-Currently in Alpha 1.2.0
+##Currently in Alpha 1.2.0
 -------------------------------------------------------------------------------
 
 Development will be slow as I am a novice developer trying to balance this project with other, more important work.
 
-HOW TO RUN GEOMIND
+###HOW TO RUN GEOMIND
        
         1) Download and install Python at wwww.python.org
         2) Run GeoMind.py with Python to open
         3) To edit GeoMind, open GeoMind.py with your favorite text editor.
 
-HELP
+###HELP
 
         SYNTAX 
         To find an equation: eq find figure | To find a value: given given2(OPT) figure
@@ -29,7 +29,7 @@ HELP
         la = lateral area 
         ta = total area 
 
-CHANGELOG
+###CHANGELOG
 
         Version Alpha 1.0.0 
         - Added values of spheres 
