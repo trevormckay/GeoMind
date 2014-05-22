@@ -14,14 +14,14 @@
 
 ###Help
 
-        SYNTAX 
+        ####SYNTAX 
         To find an equation: eq find figure | To find a value: given given2(OPT) figure
       
-        SUPPORTED FIGURES 
+        ####SUPPORTED FIGURES 
         Spheres 
         Cylinders (Partially) 
       
-        ABBREVIATIONS 
+        ####ABBREVIATIONS 
         vol = volume 
         sa = surface area 
         rad = radius 
@@ -31,10 +31,10 @@
 
 ###Changelog
 
-        Version Alpha 1.0.0 
+        ####Version Alpha 1.0.0 
         - Added values of spheres 
           
-        Version Alpha 1.1.0 
+        ####Version Alpha 1.1.0 
         - Added equations of spheres 
         - Improved help 
         - Added changelog 
@@ -43,7 +43,7 @@
             Known Issues 
         - Some values for spheres return only as 0.0 
           
-        Version Alpha 1.2.0 
+        ####Version Alpha 1.2.0 
         - Fixed issues from version 1.1 
         - Added cylinders 
         - Optimized and trimmed code 
