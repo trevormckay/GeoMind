@@ -1,0 +1,6 @@
+www.python.org
+www.github.com
+www.stackoverflow.com
+www.codeacademy.com
+www.reddit.com/r/python
+www.reddit.com/r/learn_python
