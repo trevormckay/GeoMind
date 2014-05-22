@@ -17,7 +17,9 @@
 ##Help
 
 ####SYNTAX 
-To find an equation: eq find figure | To find a value: given given2(OPT) figure
+To find an equation: eq (to find) (figure)
+
+To find a value: (given) (second given if applies) (figure)
       
 ####SUPPORTED FIGURES 
 Spheres 
