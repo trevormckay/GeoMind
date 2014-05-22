@@ -1,8 +1,14 @@
-Trevor McKay's GeoMind | Download Python at wwww.python.org
+Trevor McKay's GeoMind
 -------------------------------------------------------------------------------
 
 Currently in Alpha 1.2.0
 -------------------------------------------------------------------------------
+
+HOW TO RUN GEOMIND
+       
+        1) Download and install Python at wwww.python.org
+        2) Run GeoMind.py with Python to open
+        3) To edit GeoMind, open GeoMind.py with your favorite text editor.
 
 HELP
 
