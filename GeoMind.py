@@ -16,10 +16,6 @@ print """Type 'help' for a list of figures, abbreviations and correct syntax.
 
 """
 
-print """Version Alpha 1.2.0 (type 'changelog' to view patch and release notes) 
-
-"""
-
 raw_input()
 
 # Makes calculator run until broken or terminated
