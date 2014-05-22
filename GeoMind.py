@@ -58,34 +58,6 @@ while True:
 		"""
 		raw_input()
 		
-	# changelog
-	openchangelog = function == "cl"
-	if openchangelog is True:
-		
-		print """
-		NOTE: Old versions are not available for download or use.
-		
-		Version Alpha 1.0.0
-		- Added values of spheres
-		
-		Version Alpha 1.1.0
-		- Added equations of spheres
-		- Improved help
-		- Added changelog
-		- Updated syntax
-		- Minor optimizations
-			Known Issues
-		- Some values for spheres return only as 0.0
-		
-		Version Alpha 1.2.0
-		- Fixed issues from version 1.1
-		- Added some functionality for cylinders
-		- Optimized and trimmed code
-		- Calculator now asks for given instead of what is to be found
-		- Minor formatting changes
-		"""
-		raw_input()
-		
 #VALUES REGARDING SPHERES
 		
 	# given volume of sphere
