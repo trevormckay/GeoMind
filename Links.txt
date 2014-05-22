@@ -1,6 +1,6 @@
-www.python.org
-www.github.com
-www.stackoverflow.com
-www.codeacademy.com
-www.reddit.com/r/python
-www.reddit.com/r/learn_python
+http://www.python.org/
+http://www.github.com/
+http://www.stackoverflow.com/
+http://www.codeacademy.com/
+http://www.reddit.com/r/python/
+http://www.reddit.com/r/learn_python/
