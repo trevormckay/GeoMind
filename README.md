@@ -22,9 +22,9 @@
 **To find a value:** (given) (second given if applies) (figure)
       
 ####SUPPORTED FIGURES 
-Spheres 
+**Spheres** 
 
-Cylinders (Partially) 
+**Cylinders** (Partially) 
       
 ####ABBREVIATIONS 
 **vol** = volume 
