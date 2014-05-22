@@ -79,7 +79,7 @@ while True:
 		
 		Version Alpha 1.2.0
 		- Fixed issues from version 1.1
-		- Added cylinders
+		- Added some functionality for cylinders
 		- Optimized and trimmed code
 		- Calculator now asks for given instead of what is to be found
 		- Minor formatting changes
@@ -117,7 +117,7 @@ while True:
 			rad = 0.5 * pow(int(sa) / pi, 0.5)
 			vol = 4 * pi * (int(rad), 3)
 			print "The radius is approximately " + str(rad) + " units."
-			print "The volume is approximately " + str(vol) + " units cubed."
+			print "The volume is approximately " + str(vol) + " cubic units."
 			raw_input()
 	
 	# given radius of sphere
@@ -132,7 +132,7 @@ while True:
 		if isnumber is True:
 			vol = 1.3333 * pi * int(rad) ** 3
 			sa = 4 * pi * int(rad) ** 2
-			print "The volume is approximately " + str(vol) + " units cubed."
+			print "The volume is approximately " + str(vol) + " cubic units."
 			print "The surface area is approximately " + str(sa) + " square units."
 			raw_input()
 					
@@ -158,6 +158,12 @@ while True:
 	if givenradhcyl1 is True or givenradhcyl2 is True:
 		rad = raw_input("What is the radius? > ")
 		h = raw_input("What is the height? > ")
+		isnumber1 = rad.isdigit()
+		isnumber2= h.isdigit()
+		if isnumber1 is True or isnumber2 is False:
+			print "Invalid number, the program will now close. "
+			raw_input()
+			sys.exit()
 		vol = pi * pow(int(rad), 2) * int(h)
 		la = 2 * pi * int(rad) * int(h)
 		b = pi * pow(int(rad), 2)
@@ -174,6 +180,12 @@ while True:
 	if givenradvolcyl1 is True or givenradvolcyl2 is True:
 		rad = raw_input("What is the radius? > ")
 		vol = raw_input("What is the volume? > ")
+		isnumber1 = rad.isdigit()
+		isnumber2= vol.isdigit()
+		if isnumber1 is True or isnumber2 is False:
+			print "Invalid number, the program will now close. "
+			raw_input()
+			sys.exit()
 		h = int(vol) / pi * pow(int(rad), 2)
 		la = 2 * int(vol) / int(rad)
 		ba = pi * pow(int(rad), 2)
@@ -188,9 +200,19 @@ while True:
 	givenradlacyl1 = function == "rad la cyl"
 	givenradlacyl2 = function == "la rad cyl"
 	if givenradlacyl1 is True or givenradlacyl2 is True:
-		rad = raw_input("
-		la = raw_input("
-		h =
-		ba =
-		ta =
-		vol =
+		rad = raw_input("What is the radius? > "
+		la = raw_input("What is the lateral area? > "
+		isnumber1 = rad.isdigit()
+		isnumber2= la.isdigit()
+		if isnumber1 is True or isnumber2 is False:
+			print "Invalid number, the program will now close. "
+			raw_input()
+			sys.exit()
+		h = int(la) / 2 * pi * int(rad)
+		ba = pi * pow(int(rad), 2)
+		ta = int(la) + int(ba)
+		vol = pi * pow(int(rad), 2) * int(h)
+		print "The height is " + str(h) + " units."
+		print "The area of a base is " + str(ba) + " square units."
+		print "The total area is " + str(ta) + " square units."
+		print "The volume is " + str(vol) + " cubic units."
