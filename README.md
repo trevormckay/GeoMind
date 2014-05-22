@@ -8,7 +8,7 @@
 
 ##How to run GeoMind
        
-1) Download and install Python at http://wwww.python.org/
+1) Download and install Python at https://www.python.org/downloads/
 
 2) Run GeoMind.py with Python to open
 
