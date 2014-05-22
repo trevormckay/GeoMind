@@ -4,7 +4,7 @@
 ##Currently in Alpha 1.2.0
 -------------------------------------------------------------------------------
 
-Development will be slow as I am a novice developer trying to balance this project with other, more important work.
+**Development will be slow as I am a novice developer trying to balance this project with other, more important work.**
 
 ###How to run GeoMind
        
