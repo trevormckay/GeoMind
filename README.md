@@ -4,6 +4,8 @@ Trevor McKay's GeoMind
 Currently in Alpha 1.2.0
 -------------------------------------------------------------------------------
 
+Development will be slow as I am a novice developer trying to balance this project with other, more important work.
+
 HOW TO RUN GEOMIND
        
         1) Download and install Python at wwww.python.org
