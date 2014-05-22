@@ -1,7 +1,7 @@
 #Trevor McKay's GeoMind
 -------------------------------------------------------------------------------
 
-##Currently in Alpha 1.2.0
+##Currently in Alpha 1.2.1
 -------------------------------------------------------------------------------
 
 **Development will be slow as I am a novice developer trying to balance this project with other, more important work.**
@@ -59,4 +59,12 @@
 - Added cylinders 
 - Optimized and trimmed code 
 - Calculator now asks for given instead of what is to be found 
-- Minor formatting changes 
+- Minor formatting changes
+
+####Version Alpha 1.3.0
+- Continued work on cylinders
+- small changes
+
+####Version Alpha 1.3.1
+- Removed chnagelog from script (now in README.md)
+- Fixed bug where program would return invalid for valid numbers
