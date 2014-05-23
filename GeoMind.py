@@ -198,7 +198,7 @@ while True:
 			print "Invalid number, the program will now close. "
 			raw_input()
 			sys.exit()
-		rad = 2 * (int(vol) / int(la))
+		rad = 2 * int(vol) / int(la)
 		h = pow(int(la), 2) / 4 * pi * int(vol)
 		ba = pi * pow(int(rad), 2)
 		ta = int(ba) + int(la)
