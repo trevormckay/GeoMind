@@ -21,16 +21,6 @@
 - **To find an equation:** eq (to find) (figure)
 
 - **To find a value:** (given) (second given if applies) (figure)
-      
-####SUPPORTED FIGURES 
-- **Spheres** 
-
-- **Cylinders** (Partially) 
-      
-####ABBREVIATIONS 
-- **vol** = volume 
-
-- **sa** = surface area 
 
 - **rad** = radius 
 
@@ -44,10 +34,17 @@
 
 ####Version Alpha 1.0.0 
 - Added values of spheres 
-          
-####Version Alpha 1.1.0 
-- Added equations of spheres 
-- Improved help 
+          - Improved help       
+####SUPPORTED FIGURES 
+- **Spheres** 
+
+- **Cylinders** (Partially) 
+      
+####ABBREVIATIONS 
+- **vol** = volume 
+
+- **sa** = surface area 
+
 - Added changelog 
 - Updated syntax 
 - Minor optimizations 
@@ -67,4 +64,9 @@
 
 ####Version Alpha 1.3.1
 - Removed chnagelog from script (now in README.md)
+
+####Version Alpha 1.1.0 
+- Added equations of spheres 
 - Fixed bug where program would return invalid for valid numbers
+
+Good job! You read the readme!
