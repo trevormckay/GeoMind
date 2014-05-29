@@ -207,3 +207,38 @@ while True:
 		print "The area of a base is " + str(ba) + " square units."
 		print "The total area is " + str(ta) + " square units."
 		raw_input()
+
+	# Given height and volume
+	givenhvolcyl1 = function == "h vol cyl"
+	givenhvolcyl2 = function == "vol h cyl"
+	if givenhvolcyl1 is True or givenhvolcyl2 is True:
+		vol = raw_input("What is the volume? > ")
+		h = raw_input("What is the height? > ")
+		isnumber1 = vol.isdigit()
+		isnumber2= h.isdigit()
+		if isnumber1 is False or isnumber2 is False:
+			print "Invalid number, the program will now close. "
+			raw_input()
+			sys.exit()
+		rad = pow(int(vol) / pi * int(h), 0.5)
+		ba = pi * pow(int(rad), 2)
+		la = int(ba) * h
+		ta = 2 * int(ba) + int(la)
+		print "The radius is " + str(rad) + " units."
+		print "The area of a base is " + str(ba) + " square units."
+		print "The lateral area is " + str(la) + " square units."
+		print "The total area is " + str(ta) + " square units."
+		raw_input()
+		
+	# Given height and lateral area
+	givenhlacyl1 = function == "h la cyl"
+	givenhlacyl2 = function == "la h cyl"
+	if givenhlacyl1 is True or givenhlacyl2 is True:
+		h = raw_input("What is the height? > ")
+		la = raw_input("What is the lateral area? > ")
+		isnumber1 = la.isdigit()
+		isnumber2= h.isdigit()
+		if isnumber1 is False or isnumber2 is False:
+			print "Invalid number, the program will now close. "
+			raw_input()
+			sys.exit()
