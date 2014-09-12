@@ -1,7 +1,7 @@
 #Trevor McKay's GeoMind
 -------------------------------------------------------------------------------
 
-##Currently in Alpha | I am currently taking a break from developing. I will continue work on the program in the future.
+I am currently taking a break from developing. I will continue work on the program in the future.
 -------------------------------------------------------------------------------
 
 **Development will be slow as I am a novice developer trying to balance this project with other, more important work.**
