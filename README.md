@@ -2,13 +2,13 @@
 -------------------------------------------------------------------------------
 **You can contact me at tsmckay100@student.hbuhsd.edu**
 
-##How to run GeoMind
+####How to run GeoMind
        
 1) If you do not already have it, download and install Python at https://www.python.org/downloads/
 
 2) Run GeoMind.py
 
-##SYNTAX 
+####SYNTAX 
 - **To find an equation:** eq (name of equation) (name of figure)
 
 - **To find a value:** (name of given value) (second given if applies) (name of figure)
@@ -23,7 +23,7 @@
 
 - **h** = height
 
-##SUPPORTED FIGURES 
+####SUPPORTED FIGURES 
 - **Spheres** 
 
 - **Cylinders** (Partially)
