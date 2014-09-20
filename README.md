@@ -8,7 +8,7 @@
 
 2) Run GeoMind.py
 
-####SYNTAX 
+####Syntax
 - **To find an equation:** eq (name of equation) (name of figure)
 
 - **To find a value:** (name of given value) (second given if applies) (name of figure)
@@ -23,7 +23,7 @@
 
 - **h** = height
 
-####SUPPORTED FIGURES 
+####Supported Figures 
 - **Spheres** 
 
 - **Cylinders** (Partially)
