@@ -242,3 +242,5 @@ while True:
 			print "Invalid number, the program will now close. "
 			raw_input()
 			sys.exit()
+
+# Everything after spheres will use functions.
