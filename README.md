@@ -1,5 +1,7 @@
 #Trevor McKay's GeoMind
 -------------------------------------------------------------------------------
+**Developement suspended indefinitely**
+
 **You can contact me at tsmckay100@student.hbuhsd.edu**
 
 ####How to run GeoMind
